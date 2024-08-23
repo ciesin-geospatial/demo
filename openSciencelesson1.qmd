@@ -1,0 +1,42 @@
+---
+title: "Open Science Lesson 1"
+author: "Your Name"
+date: "2024-08-23"
+format: 
+  html: default
+---
+
+# This is a title
+
+## And this is a subtitle
+
+```{r}
+print("hello")
+```
+
+THis is some text that you can use!
+
+You can also add [webpages](https://quarto.org)
+
+-   unordered list
+    -   sub-item 1
+    -   sub-item 2
+        -   sub-sub-item 1
+-   [ ] Task 1
+-   [x] Task 2
+
+You can also make footnotes[^1]
+
+[^1]: THis is the footnote text.
+
+| Right | Left | Default | Center |
+|:------|:-----|---------|:-------|
+| 12    | 12   | 12      | 12     |
+| 123   | 123  | 123     | 123    |
+| 1     | 1    | 1       | 1      |
+
+![Elephant](https://digitalmedia.fws.gov/digital/api/singleitem/image/natdiglib/513/default.jpg){width="25%"}
+
+The Peregine Falcon's population in south eastern Illinois is likely not going extinct and is slowly growing
+
+This is a demo done today 

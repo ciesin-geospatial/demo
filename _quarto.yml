@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: docs
+
+# Python environment setup
+execute:
+  python: C:\Program Files\ArcGIS\Pro\bin\Python\envs\arcgispro-py3
+
+# Global document options
+title: "My HTML Webpage"
+author: "Your Name"
+date: "2024-08-23"
+format:
+  html:
+    theme: cosmo         # Specify the Bootstrap theme (e.g., cosmo, flatly, etc.)
+    toc: true   
